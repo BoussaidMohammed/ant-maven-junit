@@ -1,0 +1,6 @@
+org\mql\maven\junit4\TestAll.class
+org\mql\maven\TestAll.class
+org\mql\maven\TestCaclculator.class
+org\mql\maven\junit4\TestExcepetion.class
+org\mql\maven\junit4\TestCalculator.class
+org\mql\maven\TestCaclculator2.class
